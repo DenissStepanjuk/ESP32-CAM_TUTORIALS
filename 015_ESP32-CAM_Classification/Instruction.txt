@@ -1,0 +1,30 @@
+Перейти в корневую папку:
+cd C:\Users\Deniss\Desktop\ESP32-CAM\015_ESP32-CAM_Classification
+
+
+Создать виртуальную среду: 
+conda create --name ml_env python=3.8
+
+
+Войти в виртуальную среду: 
+conda activate ml_env
+
+
+Установка (CPU):
+conda install tensorflow keras jupyter pandas matplotlib seaborn scikit-learn
+
+conda install -c conda-forge vim
+
+
+Открыть тетрадь:
+jupyter notebook
+
+
+Удалить виртуальную среду: 
+conda remove -n ENV_NAME --all
+
+
+Конвертировать модель:
+xxd -i model.tflite > model.cc
+
+
