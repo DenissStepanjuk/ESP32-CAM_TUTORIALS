@@ -29,7 +29,6 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 ### ESP32-CAM 01: Захват кадра
 [![Смотреть видео](https://img.youtube.com/vi/3p5KLZzda98/0.jpg)](https://youtu.be/3p5KLZzda98?si=v0AItjmNtehJ7k4g)
 
-
 В этом видео начинается серия уроков по работе с модулем **ESP32-CAM** — микроконтроллером ESP32 со встроенной камерой. Автор показывает базовый пример захвата изображения и его отображения на компьютере через веб-интерфейс.
 
 **Основные моменты ролика:**
@@ -47,6 +46,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 02: microSD и SPIFFS
+[![Смотреть видео](https://img.youtube.com/vi/VAWMxgTTn-s/0.jpg)](https://youtu.be/VAWMxgTTn-s?si=e8Q4gS9X2tYquxgU)  
 
 Во втором видео серии рассматриваются способы работы с памятью модуля **ESP32-CAM**. Автор показывает, как сохранять и считывать изображения с камеры на карту microSD и во внутреннюю файловую систему SPIFFS.
 
@@ -75,6 +75,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 03: элементы управления
+[![Смотреть видео](https://img.youtube.com/vi/ndPjLr2gw94/0.jpg)](https://youtu.be/ndPjLr2gw94?si=7lQTp7Hcovm0fhMO)  
 
 В третьем видео серии рассматривается, как создать веб-интерфейс для управления параметрами камеры ESP32-CAM. Автор показывает, как реализовать разные элементы управления (радиокнопки, ползунки и переключатели On/Off), которые позволяют изменять настройки изображения в реальном времени.
 
@@ -94,6 +95,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 04: рисунок поверх изображения
+[![Смотреть видео](https://img.youtube.com/vi/HTArVYdvDJE/0.jpg)](https://youtu.be/HTArVYdvDJE?si=yHAXmjMWmTd6XQ5L)  
 
 В этом видео рассматривается, как работать с изображениями, полученными с камеры ESP32-CAM, и наносить на них графику и текст. Автор показывает принципы конвертации форматов изображений и использования специальных библиотек для рисования поверх кадра.
 
@@ -117,6 +119,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 05: объединение изображений
+[![Смотреть видео](https://img.youtube.com/vi/xfYUwteW1U0/0.jpg)](https://youtu.be/xfYUwteW1U0?si=hFaA9OVQ9-1rBNvm)  
 
 В этом видео разбирается, как объединить два изображения на ESP32-CAM — например, наложить логотип на фотографию, полученную с камеры.
 
@@ -139,6 +142,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 06: обрезка изображения
+[![Смотреть видео](https://img.youtube.com/vi/BfCMjrpMkJc/0.jpg)](https://youtu.be/BfCMjrpMkJc?si=jFDOxLJSOKLRm1cw)  
 
 В этом видео показывается, как реализовать обрезку (crop) изображения на ESP32-CAM. Автор демонстрирует процесс выделения части кадра, её сохранения и последующей отправки в браузер.
 
@@ -160,6 +164,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 07: масштабирование изображения
+[![Смотреть видео](https://img.youtube.com/vi/4CaKYwqfuho/0.jpg)](https://youtu.be/4CaKYwqfuho?si=rtLaz_0tAyhCpsb6)  
 
 В этом видео рассматривается, как изменить размеры изображения, полученного с камеры ESP32-CAM — увеличить или уменьшить его до любых заданных параметров.
 
@@ -182,6 +187,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 08: сравнение изображений
+[![Смотреть видео](https://img.youtube.com/vi/prlaFdIlNLY/0.jpg)](https://youtu.be/prlaFdIlNLY?si=CJs_Hx3FdfN0Spsr)  
 
 В этом видео рассматривается, как сравнить два изображения на ESP32-CAM и использовать это для детекции движения или изменений в кадре.
 
@@ -206,6 +212,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 09: детекция линии
+[![Смотреть видео](https://img.youtube.com/vi/oBQmBeELfwI/0.jpg)](https://youtu.be/oBQmBeELfwI?si=mI9cG0qABbFZidb4)  
 
 В этом видео разбирается алгоритм детекции границ линии на изображении, полученном с камеры ESP32-CAM. Такой подход часто применяется в робототехнике, например в роботах, которые следуют по линии на полу.
 
@@ -227,6 +234,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 10: определение цвета
+[![Смотреть видео](https://img.youtube.com/vi/lLKSUgy2BFw/0.jpg)](https://youtu.be/lLKSUgy2BFw?si=kDNOQJjAquMYYEo_)  
 
 В этом видео рассматривается алгоритм распознавания цвета на выделенном участке изображения с камеры ESP32-CAM.
 
@@ -249,9 +257,8 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 
-
-
 ### ESP32-CAM 11: HSV цветовой фильтр – Summary
+[![Смотреть видео](https://img.youtube.com/vi/Hu7sR74Xr9c/0.jpg)](https://youtu.be/Hu7sR74Xr9c?si=qEHtfCI1l54hQSJc)  
 
 В этом видео мы изучаем, как выделять определённые цвета на изображении, получаемом с модуля камеры ESP32-CAM, используя HSV цветовой формат.
 
@@ -303,6 +310,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 12: операция свёртки
+[![Смотреть видео](https://img.youtube.com/vi/n8NYPc7pSFw/0.jpg)](https://youtu.be/n8NYPc7pSFw?si=HV5dogrAweBOtTik)  
 
 В этом видео мы рассматриваем, как применять операцию свёртки для обработки изображений с камеры ESP32-CAM.
 
@@ -350,6 +358,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 13: преобразование Хафа для окружностей
+[![Смотреть видео](https://img.youtube.com/vi/uK5EIaQBr9I/0.jpg)](https://youtu.be/uK5EIaQBr9I?si=w1ioKVXuy11hxnrn)  
 
 В этом видео показано, как детектировать окружности на изображении с камеры ESP32-CAM с помощью алгоритма преобразования Хафа.
 
@@ -388,6 +397,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 14: преобразование Хафа для прямых линий
+[![Смотреть видео](https://img.youtube.com/vi/jLIusAU7DX8/0.jpg)](https://youtu.be/jLIusAU7DX8?si=MWH-V4Vbxw2H_mAI)  
 
 В этом видео показано, как выделять прямые линии на изображении с камеры ESP32-CAM с помощью алгоритма преобразования Хафа.
 
@@ -424,6 +434,7 @@ MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/Micr
 
 
 ### ESP32-CAM 15: TensorFlow Lite — классификация изображений
+[![Смотреть видео](https://img.youtube.com/vi/ORJrzHiHIDc/0.jpg)](https://youtu.be/ORJrzHiHIDc?si=QOqYMlyfv09L8H_j)  
 
 В этом видео мы показываем, как реализовать классификацию изображений на микроконтроллере **ESP32-CAM** с использованием **TensorFlow Lite**. Основные шаги включают:
 
