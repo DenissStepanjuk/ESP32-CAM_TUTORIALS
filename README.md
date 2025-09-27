@@ -1,11 +1,6 @@
 # ESP32-CAM TUTORIALS
 ![Original](https://github.com/user-attachments/assets/755b1392-473d-4c88-9107-ce2253e8cf83)
 
-Не скрываю, что я любитель, так что если у вас есть замечание, рекомендации, правки и идеи, то прошу поделится ими в телеграм-чате:
-
-https://t.me/KBISDB
-
-
 ## BOARDS MANAGER:
 
 esp32 by Espressif Systems: https://github.com/espressif/arduino-esp32
