@@ -25,7 +25,7 @@ ArduinoJson by Benoit Blanchon: https://arduinojson.org/?utm_source=meta&utm_med
 
 MicroTFLite by johnosbb and TensorFlow Authors: https://github.com/johnosbb/MicroTFLite
 
-
+https://youtu.be/3p5KLZzda98?si=v0AItjmNtehJ7k4g
 ### ESP32-CAM 01: Захват кадра
 
 В этом видео начинается серия уроков по работе с модулем **ESP32-CAM** — микроконтроллером ESP32 со встроенной камерой. Автор показывает базовый пример захвата изображения и его отображения на компьютере через веб-интерфейс.
